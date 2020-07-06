@@ -1,11 +1,11 @@
 # Site settings
-author: Jeff Hernandez
-title: 
+author: Jeffer Hernandez
+title: My Software Engineering Journey
 header-img: img/home-bg.png
 email: softwarejeffhernandez@gmail.com
-copyright_name: Jeff Hernandez
+copyright_name: Jeffer Hernandez
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Get to know me
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: SoftwareJeff
 github_username:  Jeffer-Hernandez
